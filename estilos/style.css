@@ -39,11 +39,10 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.453);
 }
 
-section#login > div#imagem {
+div#imagem {
     display: block;
     background: url(/imagens/paul-volkmer.jpg) no-repeat;;
     background-size: cover;
-
     height: 200px;
 }
 
