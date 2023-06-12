@@ -41,7 +41,7 @@ section#login {
 
 div#imagem {
     display: block;
-    background: url(/imagens/paul-volkmer.jpg) no-repeat;;
+    background: url(../imagens/paul-volkmer.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 }
